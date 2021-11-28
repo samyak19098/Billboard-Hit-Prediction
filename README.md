@@ -15,10 +15,15 @@ Download the dataset for High-Level-Classification and Low-Level-Classification 
 Complete code (with Preprocessing, EDA and models) is contained in 'main_code.ipynb'. Plots for EDA is in the 'EDA' folder. All the pickled models with their plots are saved in their respective folder in the 'models' folder.<br/>
 To load a pickled model :
 ```python
-file = open("model_name", "rb")
+file = open(PATH, "rb")
 model = pickle.load(f)
 file.close()
 ```
 </br>
 ### 2.Low-Level-Classification
 Model training and testing codes are in 'training.py' and 'testing.py' respectively. Pickled models are saved in the 'plots' folder. Loss plot and confusion matrix plots are in the 'plots' folder
+To load model:
+```python
+model = AudioClassifier()
+model.load_state_dict(torch.load(PATH))
+```
