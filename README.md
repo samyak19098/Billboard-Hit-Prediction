@@ -9,3 +9,4 @@ Link to dataset : https://drive.google.com/drive/folders/1W7jRJYta_x7VoLn1MjbPKU
 Download the dataset for High-Level-Classification and Low-Level-Classification into the 'Data' folder in both the folders before running the models.
 
 # Details
+###1. High-Level-Classification
