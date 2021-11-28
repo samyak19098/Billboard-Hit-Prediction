@@ -15,9 +15,9 @@ Download the dataset for High-Level-Classification and Low-Level-Classification 
 Complete code (with Preprocessing, EDA and models) is contained in 'main_code.ipynb'. Plots for EDA is in the 'EDA' folder. All the pickled models with their plots are saved in their respective folder in the 'models' folder.<br/>
 To load a pickled model :
 ```python
-f = open("model_name", "rb")
-load_model = pickle.load(f)
-f.close()
+file = open("model_name", "rb")
+model = pickle.load(f)
+file.close()
 ```
 </br>
 ### 2.Low-Level-Classification
