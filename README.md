@@ -1,6 +1,9 @@
 Project made as a part of CSE343: Machine Learning course.
 # Contributors
-* Samyak Jain (samyak19098@iiitd.ac.in)
+* Parth Chhabra   (parth19069@iiitd.ac.in) 
+* Samyak Jain     (samyak19098@iiitd.ac.in)
+* Sarthak Johari  (sarthak19099@iiitd.ac.in)
+* Yash Mathne     (yash19129@iiitd.ac.in)
 # Billboard-Hit-Prediction
 [Hit Song Science](https://en.wikipedia.org/wiki/Hit_Song_Science) concerns with the possibility of predicting whether a song will be a hit, before its distribution using automated means such as machine learning software. This motivated us to dig deeper to unravel how different audio features would help in predicting if a song would feature in the Billboard Top 100 Chart and build a two way usability model - both to the musicians composing the music and the labels broadcasting it.The project also aligns with our team’s vision of exploring real world applications of machine learning techniques and making them useful in common domains. We explore prediction models on data from [MSD](http://millionsongdataset.com/), Billboard and Spotify using ML techniques.
 # Introduction
