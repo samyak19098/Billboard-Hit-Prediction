@@ -5,3 +5,6 @@ With the forever-expanding music industry and the number of people keen on liste
 
 # Data
 Link to dataset : https://drive.google.com/drive/folders/1W7jRJYta_x7VoLn1MjbPKUqhpEmA_U_a?usp=sharing
+Download the dataset for High-Level-Classification and Low-Level-Classification into the 'Data' folder in both the folders before running the models.
+
+# Details
