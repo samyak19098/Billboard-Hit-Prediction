@@ -21,7 +21,7 @@ file.close()
 ```
 <br/>
 ### 2.Low-Level-Classification
-Model training and testing codes are in 'training.py' and 'testing.py' respectively. Pickled models are saved in the 'plots' folder. Loss plot and confusion matrix plots are in the 'plots' folder
+Model training and testing codes are in 'training.py' and 'testing.py' respectively. Pickled models are saved in the 'plots' folder. Loss plot and confusion matrix plots are in the 'plots' folder.<br/>
 To load model:
 ```python
 model = AudioClassifier()
