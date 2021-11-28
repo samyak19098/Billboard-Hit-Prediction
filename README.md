@@ -10,7 +10,7 @@ Link to dataset : https://drive.google.com/drive/folders/1W7jRJYta_x7VoLn1MjbPKU
 Download the dataset for High-Level-Classification and Low-Level-Classification into the 'Data' folder in both the folders before running the models.
 
 # Details
-## Final Report for the project : 'Final_Report.pdf'
+## Final Report for the project : [Final Report](https://drive.google.com/file/d/1lfrveMOsT5MYvtjfqLwC6ay6oVqJKHwL/view?usp=sharing)
 ### 1. High-Level-Classification
 Complete code (with Preprocessing, EDA and models) is contained in 'main_code.ipynb'. Plots for EDA is in the 'EDA' folder. All the pickled models with their plots are saved in their respective folder in the 'models' folder.<br/>
 To load a pickled model :
