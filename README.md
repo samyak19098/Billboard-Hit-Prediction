@@ -25,5 +25,5 @@ Model training and testing codes are in 'training.py' and 'testing.py' respectiv
 To load model:
 ```python
 model = AudioClassifier()
-model.load_state_dict(torch.load(PATH))
+model.load_state_dict(torch.load(PATH)) 
 ```
