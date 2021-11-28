@@ -1,3 +1,4 @@
+Project made as a part of CSE343: Machine Learning course
 # Billboard-Hit-Prediction
 [Hit Song Science](https://en.wikipedia.org/wiki/Hit_Song_Science) concerns with the possibility of predicting whether a song will be a hit, before its distribution using automated means such as machine learning software. This motivated us to dig deeper to unravel how different audio features would help in predicting if a song would feature in the Billboard Top 100 Chart and build a two way usability model - both to the musicians composing the music and the labels broadcasting it.The project also aligns with our team’s vision of exploring real world applications of machine learning techniques and making them useful in common domains. We explore prediction models on data from [MSD](http://millionsongdataset.com/), Billboard and Spotify using ML techniques.
 # Introduction
@@ -9,4 +10,9 @@ Link to dataset : https://drive.google.com/drive/folders/1W7jRJYta_x7VoLn1MjbPKU
 Download the dataset for High-Level-Classification and Low-Level-Classification into the 'Data' folder in both the folders before running the models.
 
 # Details
-###1. High-Level-Classification
+## Final Report for the project : 'Final_Report.pdf'
+### 1. High-Level-Classification
+Complete code (with Preprocessing, EDA and models) is contained in 'main_code.ipynb'. Plots for EDA is in the 'EDA' folder. All the pickled models with their plots are saved in their respective folder in the 'models' folder.
+</br>
+### 2.Low-Level-Classification
+Model training and testing codes are in 'training.py' and 'testing.py' respectively. Pickled models are saved in the 'plots' folder. Loss plot and confusion matrix plots are in the 'plots' folder
