@@ -1,4 +1,8 @@
 Project made as a part of CSE343: Machine Learning course.
+
+https://medium.com/@parth19069/prediction-of-hit-songs-based-on-multimodal-data-5fd76acc7bce
+
+
 # Contributors
 * Parth Chhabra   (parth19069@iiitd.ac.in) 
 * Samyak Jain     (samyak19098@iiitd.ac.in)
